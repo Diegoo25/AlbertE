@@ -1,0 +1,8 @@
+.caja{
+    width: 70%;
+   margin: 20px 20px;
+    border: 1px solid black;
+}
+p, img, h1{
+    margin:20px 20px;
+}
